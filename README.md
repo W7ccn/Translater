@@ -11,11 +11,6 @@ The app allows users to input English text and receive its Arabic translation in
 - **Task**: Machine Translation (English ➜ Arabic)
 - **Model Link**: [Hugging Face Model](https://huggingface.co/Helsinki-NLP/opus-mt-en-ar)
 
-## 🛠️ Tools & Libraries
-- Python
-- Hugging Face Transformers
-- Gradio
-- Google Colab (for easy online execution)
 
 ## 🚀 How to Run
 
