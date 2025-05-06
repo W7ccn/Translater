@@ -22,7 +22,5 @@ The app allows users to input English text and receive its Arabic translation in
 ### 🔗 Try it on Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jt7Pwuy4mk8z0dPzZc9iNsyOysZ4QzYk?usp=sharing)
 
-### Or Run Locally:
-1. Install dependencies:
-   ```bash
-   pip install transformers gradio
+### Interface image🖼️
+https://github.com/W7ccn/Translater/blob/main/WhatsApp%20Image%202025-05-06%20at%209.33.18%20PM.jpeg?raw=true
