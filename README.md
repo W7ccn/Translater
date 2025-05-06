@@ -1,55 +1,22 @@
-## 🈯 English to Arabic Translator
+# 🌍 English to Arabic Translator using Hugging Face and Gradio
 
-This is a simple interactive translation app built using a pre-trained model from 🤗 Hugging Face and a Gradio interface.
+## 📌 Project Description
+This interactive application translates English text into Arabic using a pre-trained model from [Hugging Face 🤗](https://huggingface.co/) and a user-friendly interface built with [Gradio](https://gradio.app/).
 
----
+## 💡 App Idea
+The goal of this app is to make language translation accessible and simple through an AI-powered interface that instantly translates input English sentences into Arabic.
 
-## 📌 Project Idea
+## 🧠 Model Used
+- **Name**: `Helsinki-NLP/opus-mt-en-ar`
+- **Task**: Machine Translation (English ➜ Arabic)
+- **Model Link**: [https://huggingface.co/Helsinki-NLP/opus-mt-en-ar](https://huggingface.co/Helsinki-NLP/opus-mt-en-ar)
 
-The app takes English text as input and translates it into Arabic using a machine translation model. It demonstrates how pre-trained models can be integrated with user-friendly interfaces for practical use cases.
-
----
-
-## 🔍 Model Used
-
-- **Hugging Face Model**: `Helsinki-NLP/opus-mt-en-ar`
-- **Task**: English to Arabic machine translation
-- **Frameworks**: `transformers`, `gradio`
-
----
-
-## 🖼️ Screenshot
-
-![App Screenshot](https://raw.githubusercontent.com/your-username/your-repo/main/translation_ui.png)
-
-> Replace the above URL with the actual GitHub image link OR place the image in the same folder and name it correctly (e.g. `translion_ui.png`)
-
----
+## 🛠️ Tools & Libraries
+- Python
+- Hugging Face Transformers
+- Gradio
 
 ## 🚀 How to Run
-
-1. Install dependencies:
-    ```bash
-    pip install transformers gradio
-    ```
-
-2. Run the app:
-    ```bash
-    python app.py
-    ```
-
-3. Or run in [Google Colab](https://colab.research.google.com/drive/1Jt7Pwuy4mk8z0dPzZc9iNsyOysZ4QzYk?usp=sharing)
-
----
-
-## 📂 Files
-
-- `app.py` — Main application file
-- `README.md` — Project documentation
-- `translation_ui.png` — Screenshot of the app (optional)
-
----
-
-## 🙌 Credits
-
-Project by **Dr. Ahmed Al-Hindi’s student** | Powered by [Hugging Face](https://huggingface.co/) and [Gradio](https://www.gradio.app/)
+1. Install the dependencies:
+   ```bash
+   pip install transformers gradio
